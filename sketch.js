@@ -4,6 +4,6 @@ function setup() {
 
 function draw() {
   background(220);
-  text ("formadores", 138, 184); 
+  text ("formadores t3", 138, 184); 
   fill (color(199,94,235) );
 }
